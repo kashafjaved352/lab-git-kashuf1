@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+}
+
+#colorBox {
+    width: 300px;
+    height: 150px;
+    margin: 20px auto;
+    line-height: 150px;
+    border: 2px solid black;
+    font-weight: bold;
+    transition: background-color 0.5s;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
